@@ -1,0 +1,16 @@
+@use '../../sass/abstracts/variables';
+
+// .header {
+//   display: flex;
+//   justify-content: space-between;
+// }
+
+.header__title {
+  color: white;
+}
+
+.header__image {
+  height: 250px;
+  width: 100%;
+}
+

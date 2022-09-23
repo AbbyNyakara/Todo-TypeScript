@@ -1,0 +1,14 @@
+@use '../../sass/abstracts/variables';
+
+.title {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.title__title-name {
+  color: variables.$clr-light-gray-blue-hover;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 2.5rem;
+}
